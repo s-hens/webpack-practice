@@ -5,7 +5,7 @@ function testFunction2() {
 }
 
 function styling() {
-    document.body.setAttribute("style", "background: #D6EAF8; padding: 20px;");
+    document.body.setAttribute("style", "background: #D6EAF8;");
 }
 
 export {
